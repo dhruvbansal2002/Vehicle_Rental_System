@@ -20,8 +20,3 @@ Visual Studio 2022 – IDE for development
 ✔ L – Liskov Substitution Principle (LSP):Child classes can replace parent classes without breaking functionality.
 ✔ I – Interface Segregation Principle (ISP): Interfaces are broken down to ensure clients don’t depend on unnecessary methods.
 ✔ D – Dependency Inversion Principle (DIP): High-level modules do not depend on low-level modules but on abstractions.
-
-🔹 Future Enhancements
- Database Integration – Implement persistent storage using MySQL or MongoDB.
- Admin Dashboard – Add an admin panel for better system management.
- Online Booking System – Provide a web-based UI for customer reservations.
